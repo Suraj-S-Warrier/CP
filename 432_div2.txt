@@ -1,0 +1,25 @@
+432div2_B. Arpa and an exam about geometry
+
+time limit per test:2 seconds
+memory limit per test:256 megabytes
+inputstandard input
+outputstandard output
+
+Arpa is taking a geometry exam. Here is the last problem of the exam.
+
+You are given three points a, b, c.
+
+Find a point and an angle such that if we rotate the page around the point by the angle, the new position of a is the same as the old position of b, and the new position of b is the same as the old position of c.
+
+Arpa is doubting if the problem has a solution or not (i.e. if there exists a point and an angle satisfying the condition). Help Arpa determine if the question has a solution or not.
+
+Input
+The only line contains six integers ax, ay, bx, by, cx, cy (|ax|, |ay|, |bx|, |by|, |cx|, |cy| ≤ 109). It's guaranteed that the points are distinct.
+
+Output
+Print "Yes" if the problem has a solution, "No" otherwise.
+
+You can print each letter in any case (upper or lower).
+
+INF: Qs might have geometry stuff like this..remember. When you see such multiple exception handling questions, make sure you write your soln down (pseudo) immediately so that you dont miss 
+any exceptions and you dont lose train of thought.
