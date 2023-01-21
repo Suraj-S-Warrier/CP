@@ -1,0 +1,5 @@
+codeforces_polyrounddiv1+2_C
+
+INF: the q seemed to be quite ok..but was able to submit only after a wrong submission, and i dont think i wouldve been able to find the exception without looking at the testcase..need 
+to improve observation skills...also if you know what needs to be done, dont delay doing it...you know you have to compute answers for different testcases to know what is wrong, do do it 
+and do it fast.
