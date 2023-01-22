@@ -1,0 +1,7 @@
+eduround411_C.cpp
+
+INF:
+
+i started writing this update with the belief that i had done a question properly for once...but no. i had mistakes in code because i was careless while copy pasting recurring parts of code.
+But, (Again!!!!!!!!), i read the question wrong and wrote a bunch of lines which was truly unnecessary and couldve been avoided if only i was more careful while reading the question..
+i need to do more meditation..or some shit and start being more careful. be in the present. stop phasing out.
