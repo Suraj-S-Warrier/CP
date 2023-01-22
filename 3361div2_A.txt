@@ -1,0 +1,6 @@
+361div2_A
+
+INF:
+you definitely need a pen and a paper for solving constructive algorihm qs...its not that you cant get the logic without it..but chances of there being a sneaky af exception is quite high
+so be on the lookout..also..be more mondful and careful while coding..the only reason others are able to write code faster is because they have lesser errors in code than you..not typing speed
+so try to make less mistakes and read the question constraints, and test cases very carefully.
