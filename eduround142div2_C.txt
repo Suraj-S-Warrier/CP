@@ -1,0 +1,7 @@
+eduround 142_C
+
+INF:
+
+got the logic and implemented..got ac in first attempt..congratulations!! but the problem is, your negligance cost you here too..didnt take into the factor that it was 1 indexed 
+and not 0 indexed..had to refactor the code again..luckily(or coz of skill) you corrected but the even part and odd part in the first try itself)...try not to be negligent about this stuff
+and pay attention.
