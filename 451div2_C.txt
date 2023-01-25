@@ -1,0 +1,7 @@
+451div2_C
+
+INF:
+This was pretty good..you got a question which required to think abbout quite a number of steps..but still you were able to focus..im guessing the meditation stuff is paying off..keep 
+doing it. Also, a little bit more focus and you are done. Because you missed a little thing in the output format and had to make some changes in the code..so, keep actively trying to 
+improve focus. This was a question which required map of string to set of strings..a little complicated..but you were able to glide through without complications..well done. Try to practice
+a few questions on binary search though..coz even though shaan said all binary search qs can be done through maps, it just might come in handy...
