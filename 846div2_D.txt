@@ -1,0 +1,9 @@
+846div2_D
+
+INF:
+
+cout.setf(ios::fixed);
+cout << setprecision(0) << value<<endl;
+
+Remember these lines when you want an output in integers and not scientific notation...use it in each cout statement involving suspicious integers...ios::fixed keeps the number in float
+while the setprecision(0) removes all the decimal parts..you can manipulate that 0 to give decimal precision of your choice. Other than that...D was pretty much a straight forward q i guess
