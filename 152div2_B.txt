@@ -1,0 +1,11 @@
+152div2_B
+
+PONDER:
+
+this question really seems to baffle the shit out of me..i mean how can we check if a number is divisible if the number is in the order of 10^(10^5)!!!!!!...if the solution to this question
+doesnt teach me anything new and is wuite elementary, im gonna kill myself
+
+INF:
+
+Hmmm.definitely looked at the soln too soon...and by the way, there are no 'new' questions in cp remember?...so if you see something impossible like that, you can be sure that something is off.
+also that there is a string way when range is till 10^(10^5) 
