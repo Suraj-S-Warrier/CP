@@ -1,0 +1,8 @@
+728div2_B
+
+INF:
+
+the logic is sooo guud..as you said, you cannot multiply everything..for qs like thid,
+the first idea should indeed be turning it into a prefix sum kinda thing..
+but the next might indeed be to thing backwards..instead of the multiply part..think about the additing part..think of all possibilities..
+finding factors is just O(sqrt(n))..check whether we have that factor in the array. Simple. Beautiful. Elagant. 
