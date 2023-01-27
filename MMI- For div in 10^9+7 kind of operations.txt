@@ -1,0 +1,4 @@
+MMI:
+
+Modular multiplicative INverse...so that if we want to find (x/y)%M,
+we can find MMI of y so that (x* MMI(y))%M is the desired value
