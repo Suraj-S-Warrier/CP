@@ -1,0 +1,9 @@
+ 
+2019-2020 ICPC, NERC, Southern and Volga Russian Regional Contest_A
+
+INF:
+
+Ok, so got a way to improve your speed..other than thinking of the 
+logic faster, you just have to implement more problems or do more implementation questions;)
+Do such questions and you will start recognising exactly how your code must be right from start
+instead of guessing and stopping in between coding all the time
