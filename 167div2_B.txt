@@ -1,0 +1,16 @@
+167div2_B
+
+INF:
+You did good, but then this was an easy question..Questions like these remind us why we have to look at
+tutorial and solutions even if we know the answer..because we dont know when we get a unique and 
+thought-provoking answer.
+Just remember,
+next time when the relation is:
+f(0) = 0
+f(2x) = f(x)
+f(2x+1) = f(x) +1
+
+it means that the function is directly related to the number of set bits in the
+binary representation of the number
+
+Also, there is a built in function to count number of set bits...__builtin_popcount(x)
