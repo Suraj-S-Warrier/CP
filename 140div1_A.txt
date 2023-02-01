@@ -1,0 +1,15 @@
+140div1_A
+
+INF:
+
+you got the logic to the major part...but still struggled because
+there was a great idea in the implementation hidden too!!!
+in the name of binary powers method. ok. so,if you are finding the value of something of the form
+a^n..and you also have that modulo, lets say m, ka funda..then if the time is restricted that you cant find the powers all the way till
+n..then you can make it log(n)..make a recursive function:
+
+f1(n,m)
+{
+	if(n==0): return 1
+	if(n%2==0): p = f1(n/2,m)%m; return (p*p)m
+	if(n%2!=0): p=f1(n/2,m)%m; return ((p*p)%m *(a%m))%m; 
