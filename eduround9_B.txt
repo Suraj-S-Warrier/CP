@@ -1,0 +1,6 @@
+eduround9_B
+
+INF:
+
+Since you have done enough questions on prefix sums ig you got the answer pretty fast..noicee.
+the soln's implementation was a slight variation of yours and both has the same complexity O(n)..soooooo...gud.
