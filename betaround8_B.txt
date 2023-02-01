@@ -1,0 +1,10 @@
+betaround8_B
+
+INF:
+
+Half expected sich an old question to be idiotic..but it was quite good...had a good implementation 
+and also a nice visually appealing logic( mine)..now lemme check out the soln and tutorial
+
+ok so checked the tutorial...there werent any..there were solutions only for D and E and not for the rest..
+But the tag was indeed mentioned 'graph'..so im guessing there could be an adjacency list logic which didnt require map of pair to pair..
+or any such complex data structures..
