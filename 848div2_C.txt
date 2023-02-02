@@ -1,0 +1,15 @@
+848div2_C
+
+INF:
+
+One of the first questions in a long time...and that too, in a contest..where i actually got 
+the logic which fit the time complexity but didnt know how to code it up...sed..had to look up in internet on how to 
+generate all combinations of k indices in n natural numbers...gotta understand that logic and make sure you
+never forget it coz it looks pretty basic and useful..and as for the logic i found, the code hit about 120 lines..
+so im guessing this isnt the right logic which the setters meant..also had to use a lot of really complex data structures..
+not that im complaining about it..kinda enjoyed using such a lot in the same queestion..but still surprised that
+i was ablwe to pull it off..really undermining myself all this time.
+
+Now, leeme check the tutorial and setter's code and stuff.
+
+Ok, so checked and apparently that is indeed the solution..there is no greedy method or anything....grt. 
