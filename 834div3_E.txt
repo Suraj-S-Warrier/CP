@@ -1,0 +1,14 @@
+834div3_E
+
+INF:
+
+Didnt complete the question..got an uncommon error...memory limit exceeded..now, by my understanding through
+basic googling, we can store arrays of max size 10^7 and when we try to do 10^8 we will get memory limit exceeded error..
+that is, if it is an int. Summary: max memory size is around 2^28 bytes..when an ints are stored in an array, each takes up 4 bytes..for ll it is 8 bytes..
+
+Update:
+
+So, i changed data type from ll to int so that it makes a difference..it didnt. Then i had to change the data type of container from 
+vector to array..dunno if that helped coz i also declared the container globally..and it got AC so i dont know what did the trick..changing from vector to array
+or making it global.
+The solution was also along the same lines, so im guessing there indeed wasnt any greedy solution
