@@ -1,0 +1,15 @@
+171div2_C
+
+INF:
+
+Twas an awesome q!!!!..loved it! Made me think for the logic
+for a long long time..but you shouldnt be thinking for the logic for such a long
+time anyways i guess..your logic was..since you had to find ladders..the only case where the 
+interval is not a ladder is, when an inc in slope occurs after a decrease in slope within the
+interval..this can further be formalised as, the first inc in slope before r( looking backwards) 
+should occur before the first decrease in slope after l...and here inc in slope just means ppositive slope 
+and decrease in slope meeans neg slope.Neat solution, huh? pretty proud of meself.
+
+the solution said pretty much the same as yours..also there is this function called iota 
+which gives all the paositions of an array between the given range, a sequence of increasing values starting with val
+followed by val +1, val +2, etc..
