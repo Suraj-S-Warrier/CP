@@ -1,0 +1,11 @@
+849div4_F
+
+INF:
+
+This was such an awesome q..leanr quite a lot even though i wasnt able to code it without looking at the solution.
+Also, this didnt use any new trick at all. it was simply an implementation question. we just needed to know how to use a 
+set properly. We had to make use of the fact that the element will not be used more than 3 times..so whenever it is active, keep its index in the set, otherwise delete 
+it.. we also learnt how to use the lower_bound() function of sets..also learnt about the erase function and that for set, if we are 
+iterating through it, we usually avoid deletions coz it might make the loop go crazy coz of fucked up indexing..
+but that can be corrected with sets..we just need to assign the return value of the erase function back to the iterator.Quite sad that 
+it was an awesome data structures question and you messed up. Sed.
