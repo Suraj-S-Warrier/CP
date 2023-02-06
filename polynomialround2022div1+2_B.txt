@@ -1,0 +1,9 @@
+Polynomialround2022div1+2_B
+
+INF:
+
+it was kind of an easy one..i got it..and many got it in the contest too..
+just had to observe for a bit..coding part is just a cakewalk...the thing with such logic
+is you must be able to prove without a doubt that your algorithm will bring the right solution..
+intuition went out of the question quite some while ago..or else whatever intuition you get, you must be able
+to prove its viability.Lets check the tutorial.
