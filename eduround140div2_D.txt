@@ -1,0 +1,4 @@
+eduround140div2_D
+
+didnt get the logic..remembered the logic but dont have a complete idea on how it works..dont understand why 0's and 1's can be 
+grouped seperately..have to solve a lot more questions before you can hope to get a workaround for all kinds of problems.
