@@ -1,0 +1,10 @@
+was a really good question..kinda sad that you needed to take a little peek and a loooott of time to figure it out..the peek revealed a 
+technique i learnt quite some time ago and had forgotten..the method of difference arrays....basically, if you have to increase
+the value of a range of elements in an array and you have to do it multiple times, instead of the naive n^2 method, you can simply
+create a new array called D,initialised to D[i] =A[i]-A[i-1]. in each query, increase the value at the start index of the update in the D array by the 
+update value...ie, if you need to increase the values of the elements from i to j by k, then D[i] += k. Also, D[j+1]-=k.Keep doing these
+updations for each query and in the end, run a loop of n, with D[i] = D[i]+ D[i-1] to get the updated array. Just that simple and the
+work is done in just O(n). Dont forget this. Difference array or delta encoding. it is called by both names. Other than that, theq just had 
+taking prefix sums from behind, which you figured out..kudos for that...you found out because you properly dissected the question and
+realised what information you didnt use yet. analyse questions procedurally like that you shall have no problem in finding solutions
+for most questions. the solution given also aligned with your solution. 
