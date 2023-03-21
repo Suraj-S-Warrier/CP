@@ -1,0 +1,8 @@
+853div2_C
+
+wasnt able to reach  the logic..the initial few steps were right though..
+you deduced that checking every such combination wasnt viable..so decided that
+there needed to be added iteratively and took less than n^2...but you 
+thought that had something to do with the arrays..you needed to look a 
+level deeper and realise that total number of occurrences of each value needed
+to be monitored and manipulated.
