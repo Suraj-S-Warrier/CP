@@ -1,0 +1,11 @@
+SWERC_2022_23_L
+
+got into 3/4rths of the layers..but couldnt crack the rest because of sloppiness..
+as im returning, i notice that im less focused than i used to be..need to 
+get back to the previous glory. here, in this question, i calculated the 
+range of the final answer to be different..that made a lot of difference..
+need to avoid such carelessness...also, i wrote a bit of redundant recurring code
+for no reason because of false assumptions which couldve been removed if only
+i had thought about it a bit...if Cy/(x-y) is an integer where C is an integer, then Cx/(y-x)
+will also be an integer since their sum is an integer. 
+
