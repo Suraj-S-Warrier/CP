@@ -1,0 +1,7 @@
+codeforces_nebiusewlcomerounddiv1+2_C
+
+it was a good one...in all these questions i feel i come so damn close, but then 
+im never able to reach the finish line. The thought to follw on this one was
+there doesnt seem to be another way..so maybe there should be a reason why we dont 
+need to search that far as 10^9..maybe there is a lower upper limit..this remainder 
+thing seem to become more and more important 
