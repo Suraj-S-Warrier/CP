@@ -1,0 +1,11 @@
+codeforces_855div3_E2
+
+the solution which i found for the question just seemed so easy...but then had to submit
+thrice to get AC. but it wasnt becasue the initial idea was wrong..but it was because 
+the algorithm had an exception and i overlooked that. was a kind of an 
+exception which could come under the category of lack of practice. now lemme 
+check the tut solution coz in the tags it was given dfs anol but my solution 
+didnt have any of those.
+
+Ok, so the tut solution indeed has dfs in it...but the problem is i dont understand
+it properly..prolly have to look it u up in youtube later..

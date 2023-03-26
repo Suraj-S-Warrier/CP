@@ -1,0 +1,8 @@
+codeforces_eduround145div2_C
+
+Questions like these depends on the configurations you select on choosing 
+the subarrays in an orderly manner...the order which was chosen was take
+all the subarrays which start with a particular index..so if i select subarrays
+like that, then the k subarrays can be set up in the beginning of the array
+itself. its quite sad that this idea didnt strike you and had to be told to
+you by someone else.
