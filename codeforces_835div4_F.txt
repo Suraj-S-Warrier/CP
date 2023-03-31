@@ -1,0 +1,10 @@
+codeforces_835div4_F
+
+The question is of a lesser difficulty than usual...but it was so that you could get out
+of your slump by tonight. Could use binary search on top of this to make it 
+even more efficient.
+
+YEs, as expected, the tutorial has a binary search solution. But since 
+i used the prefix array thing, i was able to reduce the complexity. Need to 
+kinda practice more questions with binary search...so might mark this question
+for future reference
