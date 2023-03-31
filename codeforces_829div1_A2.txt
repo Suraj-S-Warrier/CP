@@ -1,0 +1,8 @@
+codeforces_829div1_A2
+
+you better start practicing writing code like crazy,because the kinda mistakes and 
+inefficiencies that you are making are crazily careless. and every single time you 
+are confident on top of that, that you have done everything correctly. I thought
+ you were making mistakes only for really tricky questions( not the ones with tricky
+ logic but with tricky code writing) but no, you are making mistakes in the simplest of questions.
+ you better get your head right!
