@@ -1,0 +1,7 @@
+https://codeforces.com/problemset/problem/1744/E1
+
+was a good logic for a question...teaches you that you still have a lot
+more to learn...had to look at the tutorial.. still was able to submit
+and get AC in the first try...thats good i guess.
+
+if x*y is divisible by a*b..then y is divisible by ab/(gcd(x,ab))..nice.
