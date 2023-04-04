@@ -1,0 +1,6 @@
+https://codeforces.com/problemset/problem/1742/F
+
+this is exactly what happens in most of your wrong answers im guessing..you mess
+up on data types(ll ,long double etc.) and get wrong ans on a 100+ test case where
+you dont know where you went wrong and you are left wondering what you did wrong and 
+start questioning your core logic.
