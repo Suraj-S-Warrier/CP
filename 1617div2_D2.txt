@@ -1,0 +1,7 @@
+1617_D2
+
+it was a particularly messed up and thought provoking question..its easy version
+was simple enough i suppose..but the hard version really got me. the hard version
+on seeing the editorial clues, and the easy version on my own, i was able to 
+get AC on the first submission for both. that breaks a quite a long streak of practice
+questions..yayy.
