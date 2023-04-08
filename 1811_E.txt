@@ -1,0 +1,8 @@
+1811_E
+
+your trysts with data types are going a little too far,brother. you are
+making a hell lot of wrong submissions, and a majority of them are because of 
+the wrong data types you use...and its not even like you make some 
+cool error like used map instead of priority queue..its the lame ass int
+instead of long long EVERY SINGLE TIME! correct yourself before you make anymore
+wrong submissions.
