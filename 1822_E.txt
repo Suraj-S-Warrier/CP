@@ -1,0 +1,13 @@
+Codeforces Round 867 (Div. 3) E. Making Anti-Palindromes
+
+Such an awesome question..i mean..woah! So, the idea that i followed for this one was:
+->if the size of string is odd, it is never going to work. Also, if the number of occurrences of a particular character is more
+than s.size()/2, there is bound to be a pallindromic pair of that character, no matter how many operations you do..
+->In all the other cases, there will be a solution. Now, let the total number of pallindromic pairs be x. if the number of pallindromic
+pairs of every character is less than x/2, then you can exchange within the pairs itself to create a completely anti pallindromic
+word. Then the no of perations will simply be (x+1)/2
+-> Else if any character has no of pallindromic pairs to be more than x/2, then you have to find the two cases for x being odd and even.
+
+It was a great question because it taught a great lesson. i created a lot of algorithms but none of them had a logical basis as to 
+why it should work. but i tried it anyways. and lost. many many times. Even though hunches without proper logical basis helps at times, 
+it does come with its own problems. remember that.
