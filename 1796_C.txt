@@ -1,0 +1,9 @@
+Educational Codeforces Round 144 (Rated for Div. 2) C. Maximum Set
+
+The logic was simpe enough..it was the optimising to bring it down below O(n) which took time..shouldve seen that it was 
+supposed to be less than O(n)..lost a submission there...lost another submission because i left in a O(n) loop in the main code 
+which wasnt doing anything other than increase the time taken..was a loop which i had used in the previous submission..lost another 
+submission in that..wouldve been devastating in a real contest.
+
+Hmmm...so the real solution had O(1) solution and i had logn solution...the thing is, i really didnt need to use binary search to find 
+those partitions..its just simple arithmatics. Pretty disappointing.
