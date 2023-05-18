@@ -1,0 +1,14 @@
+Educational Codeforces Round 143 (Rated for Div. 2) D. Triangle Coloring
+
+Learnt quite a lot with this question..the logic is, divide the triplet sets into 2..one with majorly red vertices, and other with blue.
+in every set, to get the maximum out of it, take the two edges with maximum value..thus you get a 
+configuration. For every ccombination of configuration of every set , there is (n/3)C(n/6) ways of colouring (by choosing n/6 out of
+n/3 as the Red major set). There can be multiple configuration for a single set only if, there aremultiple selections of sides such that the 
+sum is equal to the max sum possible. There can be either 3,2 or 1 such configuration in every set. Multiply all of them. Let the number be x.
+Thus the answer is x* (n/3)C(n/6).
+
+The logic finding was easy enough. But the mod NUM part...
+->if there is an ncr part in the formula, ew dont always have to take multiplicative inverse. if the number is small enough, we can use
+the idea that, if b divides a, then  (a/b)%NUM = (a%(NUM*b))/b....but if b is large, i doubt if we can use this.
+-> so if we cannot use the above, we simply can find the numberator%NUM. Then find modular multiplicative inverse for every
+term in the denominator and multiply it with the numerator and take mod NUM. it will simply take nlogn time.
