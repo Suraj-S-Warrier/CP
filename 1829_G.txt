@@ -1,0 +1,10 @@
+Codeforces Round 871 (Div. 4) G. Hits Different
+
+The problem tags seems to be saying 'data structures' but i didnt use any awesome ones...so im guessing there is an awesome way of 
+doing this question rather than just brute force finding the row, and keeping 2 pointers to specify the range of cans about to be toppled,
+and finding squares and adding them all together.i mean..i didnt even use the optimisation of adding the initial contiguous cans 
+using formula..i simply looped and added. Still AC.
+
+Yup, as suspected, there was a O(n) solution whereas mine was around o(n^2) or something weird like that..
+We need to visualise the cans differently and then we will get a 2D array and then getting the prefix sum, we get the answer for every single
+test case in o(1). cool, huh?
