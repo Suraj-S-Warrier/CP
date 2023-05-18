@@ -1,0 +1,14 @@
+Hello 2023 C. Least Prefix Sum
+
+The solution is pretty good and stuff...Take 2 priority queues, one for after m, and one for before. The after one should be increasing.
+First of all, store prefix sums in an array. Then loop for elements after m. in the loop, keep adding elements in the pq, and keep checking 
+whether pre[i]<pre[m]. if yes, then do -2*pq.top() to pre[i]. keep doing it until the condition is false. increase op until then too.
+
+Similarly for the part before m. 
+
+The problem here is, even though im able to get AC, when i looked at the submission which i made some time ago, logically they seemed to be same.
+But it somehow is indeed different and hence i was getting wrong submission. The takeaway here is, even though the logic is same, 
+i wasnt able to get AC that day. But i got AC today for the same logic. it just differed probably on how it handled one of the edges conditions.
+So, if stuck in a problem, and the logic that you made seems foolproof AND you have extra time to spare after doing all the questions that
+you possibly can do, come back to the question and code it again completely from scratch and if the code has multiple subparts, try mixing up
+ the order too. It just might work.
