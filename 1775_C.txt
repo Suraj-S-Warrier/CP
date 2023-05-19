@@ -1,0 +1,7 @@
+Codeforces Round 843 (Div. 2) C. Interesting Sequence
+
+It was a question involving a lot of bitmasks..its a good practice since u are a little weak in this concept. Had to find the pattern
+where it works and where it doesnt. The major takeaway from this question is, even if your logic is correct in bitmask questions,
+and it "seems" like you have written the code right, it might give you errors..because bitwise operator precedences and its interaction
+with the other operators are messed up..so it is advisable to always use parantheses always in questions involving manipulating the 
+bits.
