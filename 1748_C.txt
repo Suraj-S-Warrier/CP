@@ -1,0 +1,7 @@
+Codeforces Round 833 (Div. 2) C. Zero-Sum Prefixes
+
+still gotta decrease the time required for coding and debugging..took kinda like 15 mins for 44 lines of code. Be in the present to 
+decrease bugs due to carelessness. Logical bugs can still be tolerated since we are actively trying to improve our thought processes..
+but careless bugs are sources of huge time lags, since we are making mistakes in places where we dont make them normally..hence we wont
+think to check those places either. Logical bugs are less problematic right now since, there will be a larger proportion of 
+people who will be making the same mistakes.
