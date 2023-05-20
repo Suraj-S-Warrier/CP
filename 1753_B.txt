@@ -1,0 +1,7 @@
+Codeforces Round 829 (Div. 1) B. Factorial Divisibility
+
+It really did teach me something..if you feel it cannot be done in the time using the logic, there might a wawy to calculate it in 
+less time, yes. But, there is also the other possibility that, that particular calculation is not needed at all. in this case, 
+the calculation wasnt needed because, the maximum value it can take after the operations was less that x!, so if after operations,
+we dont have any <x parts, then it is divisible. as simple as that. Also, this time on, i started looking at time taken for q and for code,
+and i must say, there is a lot to improve. Need to start writing better code.
