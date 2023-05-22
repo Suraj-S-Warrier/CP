@@ -1,0 +1,5 @@
+Codeforces Round 826 (Div. 3) E. Sending a Sequence Over the Network
+
+wheewwww!...evidently, u need a lot of work on dp co this was simply torture...u saw the tutorial...and still took 6 submissions and 3 days
+to find how to implement dp and that too PROPERLY, in the code. That kind of problem could be a killer in the interview and you shouldnt
+be taking any chances and doing every dp question that lands in front of you.
