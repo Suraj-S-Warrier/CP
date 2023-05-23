@@ -1,0 +1,8 @@
+Codeforces Round 817 (Div. 4) E. Counting Rectangles
+
+Learnt that adding a dimension can also work as a solution to a seemingly impossible problem...at first, had thought of a single array of 
+areas...corresponding to sorted heights ( and at places where h is equal, w is sorted)...but then realised a bit late that, even if we find the range 
+at which 'h' works..there are multiple random w's which wont work and the required range wont be contiguous...and we need a contiguous block 
+since prefix is the only way to go..since even O(n) is bad...Even though i had to read the first line of tutorial, i realised that 
+another dimension..that is, a 2d prefix sum will help. Defining 2d prefix sum was easy enough...but was a bit careless in calculating the 
+area that is actually required by me...need to be more careful.
