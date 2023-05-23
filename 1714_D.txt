@@ -1,0 +1,8 @@
+Codeforces Round 811 (Div. 3) D. Color with Occurrences
+
+Had to look at the solution...but did find a very 'difficult to find' exception on my own..just wishing that i had found it sooner coz i had
+written a huge ass code for it and most of it went to waste because of it. After finding the exception though, i thought it was a dp question 
+and started proceeding to think in that direction...Thats the lesson to learn in this question..even if it doesnt add to a greedy solution 
+in one solution, it still might be a greedy question..just need to look at it from a different direction..in this case, instead of going 
+with the longest/word covering most uncovered letters, i shouldve started from the first and went for words covering longest distance and 
+starting before the pointer.
