@@ -1,0 +1,13 @@
+1776_F. Train Splitting
+
+Was a really good question with a very creastive approach..which was along the first idea you got but you ditched it because
+you encountered an exception and you didnt think of a workaround for it. The idea is really simple. The question is reducable to 
+" Find a way to colour the edges of a connected graph with several colors such that no colour makes the entire graph connected but 
+any two colours connects the entire graph". The approach is, in most cases you can colour the graph with just two colours. Take a node
+which doesnt share a node with every other node and colour the edges with colour 1. colour all the other edges with colour 2. But,if all
+the nodes share an edge with every other node, then colour a node's edges with 2 colours and then colour all the other nodes with a 3rd colour.
+Simple. Elegant. 
+
+But in my opinion, you are indeed taking too much time in coding up the logic.. and no, its not because of typing speed. You have to 
+build a proper logic in terms of code in your mind. Must have a proper flow of what needs to happen. Maybe try meditation or something 
+for getting much clearer and precise thoughts.
