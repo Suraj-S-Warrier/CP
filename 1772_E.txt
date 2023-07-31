@@ -1,0 +1,4 @@
+1772_E_Permutation Game
+
+Well, it was one of those questions which required quite the thought process but wasnt much to code. And, it was a thought which came 
+easily to me so...try to think openly like this for all questions.
