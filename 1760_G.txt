@@ -1,0 +1,7 @@
+1760_G_SlavicG's favorite problem
+
+You really need to start getting better at spotting exceptions. Also, always sit with a book and write down observations down for better
+clarity.The idea for this question was simple. There is a valid answer only when:
+1) The XOR path from A to a node is equal to XOR path from B to another node( need to ensure that the former path does not pass through B)
+2) XOR of a path from b to any other node is 0.
+
